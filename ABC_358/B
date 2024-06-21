@@ -1,0 +1,10 @@
+N, A = map(int, input().split())
+T = [int(s) for s in input().split()]
+seconds = 0
+for i in range(N):
+  if seconds >= T[i]:
+    seconds += A
+  else:
+    seconds = T[i]
+    seconds += A
+  print(seconds)
