@@ -2,8 +2,8 @@
 AtCoderの学習を記録するためのリポジトリ。
 
 # リアルタイムで参加したコンテスト一覧
-| コンテスト名 | ACとれた問題 | 日付 |
-| ---- | ---- | ---- |
+| コンテスト名 | 制限時間内にACとれた問題 | 日付 |
+| :----: | :----: | :----: |
 | [ユニークビジョンプログラミングコンテスト2024 夏（AtCoder Beginner Contest 359）](https://atcoder.jp/contests/abc359) | A,B | 2024/06/22 |
 
 # AtCoder Beginner Contest
