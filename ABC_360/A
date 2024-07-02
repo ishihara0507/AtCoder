@@ -1,0 +1,19 @@
+def main():
+  S = input()
+
+  r = 0
+  m = 0
+  for i in range(3):
+    if S[i] == 'R':
+      r = i
+    elif S[i] == 'M':
+      m = i
+  
+  if r < m:
+    print("Yes")
+  else:
+    print("No")
+  
+
+if __name__ == "__main__":
+  main()
