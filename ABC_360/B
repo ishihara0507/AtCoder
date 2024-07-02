@@ -1,0 +1,20 @@
+def main():
+  S, T = input().split()
+
+  n = len(S)
+  for i in range(n):
+    str = ["" for _ in range(i)]
+    if i == 0:
+      continue
+    for j in range(n):
+      str[(j+1) % i] += S[j]
+    for k in range(len(str)):
+      if str[k] == T:
+        print("Yes")
+        return
+    
+  print("No")
+
+
+if __name__ == "__main__":
+  main()
