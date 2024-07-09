@@ -33,6 +33,6 @@ AtCoderの学習を記録するためのリポジトリ。
 ## [No.361](https://atcoder.jp/contests/abc361)
 | 名前 | 問題 | 自分の解答(AC) | 解説・メモ | 記入日 |
 | :----: | :----: | :----: | :----: | :----: |
-| A | [問題](https://atcoder.jp/contests/abc360/tasks/abc361_a) | [自分の解答](https://github.com/ishihara0507/AtCoder/blob/main/ABC_361/A) | [解説・メモ](https://github.com/ishihara0507/AtCoder/issues/8) | 2024/07/02 |
-| B | [問題](https://atcoder.jp/contests/abc360/tasks/abc361_b) | [自分の解答](https://github.com/ishihara0507/AtCoder/blob/main/ABC_361/B) | [解説・メモ](https://github.com/ishihara0507/AtCoder/issues/9) | 2024/07/02 |
+| A | [問題](https://atcoder.jp/contests/abc360/tasks/abc361_a) | [自分の解答](https://github.com/ishihara0507/AtCoder/blob/main/ABC_361/A) | [解説・メモ](https://github.com/ishihara0507/AtCoder/issues/8) | 2024/07/09 |
+| B | [問題](https://atcoder.jp/contests/abc360/tasks/abc361_b) | [自分の解答](https://github.com/ishihara0507/AtCoder/blob/main/ABC_361/B) | [解説・メモ](https://github.com/ishihara0507/AtCoder/issues/9) | 2024/07/09 |
 
