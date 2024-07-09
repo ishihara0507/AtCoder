@@ -1,0 +1,8 @@
+a, b, c, d, e, f = map(int, input().split())
+g, h, i, j, k, l = map(int, input().split())
+
+# 共通部分の確認
+if (a < j and d > g) and (b < k and e > h) and (c < l and f > i):
+    print("Yes")
+else:
+    print("No")
