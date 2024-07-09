@@ -7,6 +7,7 @@ AtCoderの学習を記録するためのリポジトリ。
 | [ユニークビジョンプログラミングコンテスト2024 夏（AtCoder Beginner Contest 359）](https://atcoder.jp/contests/abc359) | A,B | 2024/06/22 |
 | [第五回日本最強プログラマー学生選手権-予選-（AtCoder Regular Contest 180）](https://atcoder.jp/contests/arc180) | 解けなかった | 2024/06/29 |
 | [AtCoder Beginner Contest 360](https://atcoder.jp/contests/abc360) | A,B | 2024/6/30 |
+| [デンソークリエイトプログラミングコンテスト2024（AtCoder Beginner Contest 361）](https://atcoder.jp/contests/abc361) | A | 2024/7/06 |
 
 # AtCoder Beginner Contest
 ## [No.358](https://atcoder.jp/contests/abc358)
