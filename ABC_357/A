@@ -1,0 +1,11 @@
+n, m = map(int, input().split())
+h = [int(s) for s in input().split()]
+
+hunds = 0
+ans = 0
+for i in range(n):
+  hunds += h[i]
+  if hunds <= m:
+    ans += 1
+
+print(ans)
