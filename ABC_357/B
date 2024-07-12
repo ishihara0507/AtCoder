@@ -1,0 +1,17 @@
+s = input()
+
+ans = s
+s = list(s)
+n_small = 0
+n_big = 0
+for i in range(len(s)):
+  if s[i].islower(): # 小文字の場合に真
+    n_small += 1
+  else:
+    n_big += 1
+if n_small < n_big:
+  ans = ans.upper()
+else:
+  ans = ans.lower()
+
+print(ans)
