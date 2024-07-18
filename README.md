@@ -42,3 +42,14 @@ AtCoderの学習を記録するためのリポジトリ。
 | :----: | :----: | :----: | :----: | :----: |
 | A | [問題](https://atcoder.jp/contests/abc357/tasks/abc357_a) | [自分の解答](https://github.com/ishihara0507/AtCoder/blob/main/ABC_357/A) | なし | 2024/07/12 |
 | B | [問題](https://atcoder.jp/contests/abc357/tasks/abc357_b) | [自分の解答](https://github.com/ishihara0507/AtCoder/blob/main/ABC_357/B) | [解説・メモ](https://github.com/ishihara0507/AtCoder/issues/10) | 2024/07/12 |
+
+# AtCoder Beginners Selection
+## [No.358](https://atcoder.jp/contests/abc358)
+<!-- | A | [問題]() | [自分の解答]() | [解説・メモ]() | 2024/00/00 | -->
+| 名前 | 問題 | 自分の解答(AC) | 解説・メモ | 記入日 |
+| :----: | :----: | :----: | :----: | :----: |
+| PracticeA | [問題](https://atcoder.jp/contests/abs/tasks/practice_1) | [自分の解答](https://github.com/ishihara0507/AtCoder/blob/main/AtCoder%20Beginners%20Selection/PracticeA) | なし | 2024/7/18 |
+| ABC086A | [問題](https://atcoder.jp/contests/abs/tasks/practice_1) | [自分の解答](https://github.com/ishihara0507/AtCoder/blob/main/AtCoder%20Beginners%20Selection/ABC086A) | なし | 2024/7/18 |
+| ABC081A | [問題](https://atcoder.jp/contests/abs/tasks/practice_1) | [自分の解答](https://github.com/ishihara0507/AtCoder/blob/main/AtCoder%20Beginners%20Selection/ABC081A) | なし | 2024/7/18 |
+| ABC081B | [問題](https://atcoder.jp/contests/abs/tasks/practice_1) | [自分の解答](https://github.com/ishihara0507/AtCoder/blob/main/AtCoder%20Beginners%20Selection/ABC081B) | なし | 2024/7/18 |
+| ABC087B | [問題](https://atcoder.jp/contests/abs/tasks/practice_1) | [自分の解答](https://github.com/ishihara0507/AtCoder/blob/main/AtCoder%20Beginners%20Selection/ABC087B) | なし | 2024/7/18 |
